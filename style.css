@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Story+Script&display=swap');
+
 :root {
     --color-primary: #8559ff;
     --color-secondary: #FFF9EB;
@@ -55,16 +57,18 @@ body {
 /* Títulos */
 .main-title {
     font-size: 48px;
-    font-family: "Merriweather", serif;
-    font-weight: 900;
-    font-style: italic;
+    font-family: "Story Script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: var(--color-white);
 }
 
 .section-title {
-    font-family: "Inter", serif;
     font-size: 36px;
-    font-weight: 700;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     color: var(--color-primary);
     margin: 10px 0;
     text-align: center;
@@ -160,3 +164,4 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
