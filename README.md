@@ -41,7 +41,7 @@ El proyecto implementa una pequeña aplicación en **JavaScript**, **HTML** y **
 4. Presiona **Enter** o haz clic en el botón **Agregar**.
 <img width="1363" height="638" alt="image" src="https://github.com/user-attachments/assets/aeebc983-2d54-4ebf-8452-5ec28caf45ac" />
 
-5. Una vez cargados todos los nombres, haz clic en **Sortear amigo**.
+5. Una vez cargados todos los nombres, haz clic en **Sortear**.
 <img width="1349" height="641" alt="image" src="https://github.com/user-attachments/assets/6481239b-5608-4826-8863-08488e3f0cc1" />
 
 6. El nombre sorteado se mostrará en la pantalla.
