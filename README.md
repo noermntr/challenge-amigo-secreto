@@ -35,17 +35,17 @@ El proyecto implementa una pequeña aplicación en **JavaScript**, **HTML** y **
 ## ▶️ Cómo usar
 1. Clona o descarga este repositorio.
 2. Abre el archivo `index.html` en tu navegador.
-<img width="1364" height="639" alt="image" src="https://github.com/user-attachments/assets/0ee19d32-7eab-496f-af57-2f201c1f2212" />
+<img width="1361" height="642" alt="image" src="https://github.com/user-attachments/assets/3d14a8a5-ef48-4608-88b6-991a17bbe4ed" />
 
 3. Escribe el nombre de un amigo en el campo de texto.
 4. Presiona **Enter** o haz clic en el botón **Agregar**.
-<img width="1363" height="638" alt="image" src="https://github.com/user-attachments/assets/aeebc983-2d54-4ebf-8452-5ec28caf45ac" />
+<img width="1362" height="638" alt="image" src="https://github.com/user-attachments/assets/706d0b45-a716-407e-a57c-13321e708fdb" />
 
 5. Una vez cargados todos los nombres, haz clic en **Sortear**.
-<img width="1349" height="641" alt="image" src="https://github.com/user-attachments/assets/6481239b-5608-4826-8863-08488e3f0cc1" />
+<img width="1347" height="637" alt="image" src="https://github.com/user-attachments/assets/3b47e6b8-d73f-4098-944f-c551fe65999f" />
 
 6. El nombre sorteado se mostrará en la pantalla.
-<img width="1343" height="641" alt="image" src="https://github.com/user-attachments/assets/ffaea297-7bdd-46fe-bf56-dfe0b74691cb" />
+<img width="1345" height="640" alt="image" src="https://github.com/user-attachments/assets/d8ec3c93-815a-4090-9152-b86a36f5ea1f" />
 
 ---
 ## 👩‍💻 Autor
